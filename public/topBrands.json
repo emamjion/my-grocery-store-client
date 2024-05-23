@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "image" : "",
+        "name" : "Lay's",
+        "description" : "A leading brand in potato chips with a wide range of flavors."
+    },
+    {
+        "id" : 2,
+        "image" : "",
+        "name" : "Tropicana",
+        "description" : "Famous for its high-quality fruit juices, especially orange juice."
+    },
+    {
+        "id" : 3,
+        "image" : "",
+        "name" : "Doritos",
+        "description" : "Known for its flavored tortilla chips, especially nacho cheese."
+    },
+    {
+        "id" : 4,
+        "image" : "",
+        "name" : "Danone",
+        "description" : "A multinational food-products corporation known for its dairy products."
+    },
+    {
+        "id" : 5,
+        "image" : "",
+        "name" : "Yoplait",
+        "description" : "A popular brand offering a wide variety of yogurt flavors."
+    },
+    {
+        "id" : 6,
+        "image" : "",
+        "name" : "General Mills",
+        "description" : "Known for popular cereal brands like Cheerios and Wheaties."
+    }
+]
