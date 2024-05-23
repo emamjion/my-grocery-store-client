@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/yskq9k6/fresh-apple.png",
+      "title": "Fresh Red Apples",
+      "price": 3.99,
+      "ratings": 4.7,
+      "brand": "Farm Fresh",
+      "category": "Fruits",
+      "description": "Crisp and sweet red apples, perfect for snacking and baking."
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/s97W9q9/bananas.png",
+      "title": "Organic Bananas",
+      "price": 1.29,
+      "ratings": 4.5,
+      "brand": "Nature's Best",
+      "category": "Fruits",
+      "description": "Ripe and ready-to-eat organic bananas, full of essential nutrients."
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/t3JdhPR/milk.png",
+      "title": "Whole Milk",
+      "price": 2.89,
+      "ratings": 4.8,
+      "brand": "DairyPure",
+      "category": "Dairy",
+      "description": "Rich and creamy whole milk from grass-fed cows."
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/Cm5Sw6b/bread.png",
+      "title": "Whole Wheat Bread",
+      "price": 2.49,
+      "ratings": 4.6,
+      "brand": "Baker's Delight",
+      "category": "Bakery",
+      "description": "Freshly baked whole wheat bread, high in fiber and nutrients."
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/999H8ws/eggs.png",
+      "title": "Free-Range Eggs",
+      "price": 3.99,
+      "ratings": 4.9,
+      "brand": "Happy Hens",
+      "category": "Dairy",
+      "description": "Large free-range eggs, rich in flavor and nutrients."
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/cxgm41Y/basmati-rice.png",
+      "title": "Basmati Rice",
+      "price": 4.99,
+      "ratings": 4.7,
+      "brand": "Royal",
+      "category": "Grains",
+      "description": "Premium quality basmati rice, perfect for a variety of dishes."
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/pwpBxVQ/pasta.png",
+      "title": "Whole Grain Pasta",
+      "price": 1.99,
+      "ratings": 4.5,
+      "brand": "Pasta Perfect",
+      "category": "Pantry",
+      "description": "Healthy and delicious whole grain pasta, great for any meal."
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/7kLpH4W/chicken-breast.png",
+      "title": "Chicken Breast",
+      "price": 5.99,
+      "ratings": 4.8,
+      "brand": "Poultry Farms",
+      "category": "Meat",
+      "description": "Fresh and tender chicken breast, perfect for grilling and baking."
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/Kr3n7rn/brocoli.png",
+      "title": "Fresh Broccoli",
+      "price": 2.19,
+      "ratings": 4.6,
+      "brand": "Green Valley",
+      "category": "Vegetables",
+      "description": "Fresh and crunchy broccoli, rich in vitamins and minerals."
+    },
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/zmj8qWy/olive-oil.png",
+      "title": "Extra Virgin Olive Oil",
+      "price": 7.99,
+      "ratings": 4.9,
+      "brand": "Mediterranean Gold",
+      "category": "Pantry",
+      "description": "High-quality extra virgin olive oil, perfect for cooking and salads."
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/rpjtVfb/orange-juice.png",
+      "title": "Orange Juice",
+      "price": 3.49,
+      "ratings": 4.7,
+      "brand": "Citrus Grove",
+      "category": "Beverages",
+      "description": "Freshly squeezed orange juice, full of vitamin C and flavor."
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/4dHW0ST/yogurt.png",
+      "title": "Greek Yogurt",
+      "price": 4.29,
+      "ratings": 4.8,
+      "brand": "Yogurt Bliss",
+      "category": "Dairy",
+      "description": "Thick and creamy Greek yogurt, perfect for a healthy snack."
+    }
+  ]
+  
