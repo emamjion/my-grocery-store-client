@@ -1,7 +1,7 @@
 import FlashSaleCard from "@/components/FlashSaleCard";
 
 const FlashSale = async() => {
-    const res = await fetch('http://localhost:5000/products',{
+    const res = await fetch('https://my-grocery-store-server.vercel.app/products',{
         next: {
             revalidate: 30,
         },
@@ -14,7 +14,7 @@ const FlashSale = async() => {
                 <h1 className="mt-8 mb-2 text-2xl font-semibold">Flash Sale</h1>
                 <p className="mb-10 md:w-[800px] text-center">
                     Get ready to seize the moment with our Flash Sale! Limited-time
-                    offers on top-quality products await you. Don't miss out – shop now
+                    offers on top-quality products await you. Don't miss out shop now
                     and save big before time runs out!
                 </p>
             </div>
